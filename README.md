@@ -7,5 +7,5 @@ repository for learn how to use github
 
 # start main
 main () {
-	주요 동작을 진행합니다.
+	Do main activity.
 }
